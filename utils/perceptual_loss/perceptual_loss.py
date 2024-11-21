@@ -6,7 +6,10 @@ import torchvision.models as models
 from .matcher import Matcher
 from collections import OrderedDict
 
-from torchvision.models.vgg import model_urls
+# from torchvision.models.vgg import model_urls
+from torchvision.models.resnet import ResNet50_Weights
+org_resnet = torch.utils.model_zoo.load_url(ResNet50_Weights.IMAGENET1K_V2.url)
+
 from torchvision.models import vgg19
 from torch.autograd import Variable
 
