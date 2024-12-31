@@ -1,6 +1,6 @@
 **Warning!** The optimization may not converge on some GPUs. We've personally experienced issues on Tesla V100 and P40 GPUs. When running the code, make sure you get similar results to the paper first. Easiest to check using text inpainting notebook.  Try to set double precision mode or turn off cudnn. 
 
-# Deep image prior
+# CT Image Reconstruction and Optimization with Unsupervised Deep Learning
 
 In this repository we provide *Jupyter Notebooks* to reproduce each figure from the paper:
 
