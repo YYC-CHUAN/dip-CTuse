@@ -8,7 +8,5 @@
 To run it using Google Colab, click [here](https://colab.research.google.com/github/YYC-CHUAN/dip-CTuse) and select the notebook to run. Remember to uncomment the first cell to clone the repository into colab's environment.
 
 You can follow the steps below to run the program:
-
 1.Click the link and choose a task.
-
 2.
