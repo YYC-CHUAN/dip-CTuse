@@ -4,5 +4,6 @@
 
 ## Google Colab
 > In this experiment, we used a T4 GPU (memory size of 15.0GB), system RAM of 12.7GB, and disk size of 112.6GB. 
+
 To run it using Google Colab, click [here](https://colab.research.google.com/github/YYC-CHUAN/dip-CTuse) and select the notebook to run. Remember to uncomment the first cell to clone the repository into colab's environment.
 
